@@ -1,0 +1,9 @@
+# view AndroidManifest.xml #generated:25
+-keep class net.gpii.app.GpiiActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:33
+-keep class org.meshpoint.anode.AnodeReceiver { <init>(...); }
+
+# view AndroidManifest.xml #generated:50
+-keep class org.meshpoint.anode.AnodeService { <init>(...); }
+
