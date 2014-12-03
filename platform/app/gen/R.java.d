@@ -11,9 +11,4 @@
 /home/thomas/gpii/android/platform/app/res/layout/main.xml \
 /home/thomas/gpii/android/platform/app/res/drawable-hdpi/gpii_logo.png \
 /home/thomas/gpii/android/platform/app/res/drawable-hdpi/ic_launcher.png \
-/home/thomas/gpii/android/platform/app/bin/res/drawable-ldpi/ic_launcher.png \
-/home/thomas/gpii/android/platform/app/bin/res/drawable-xhdpi/ic_launcher.png \
-/home/thomas/gpii/android/platform/app/bin/res/drawable-mdpi/ic_launcher.png \
-/home/thomas/gpii/android/platform/app/bin/res/drawable-hdpi/gpii_logo.png \
-/home/thomas/gpii/android/platform/app/bin/res/drawable-hdpi/ic_launcher.png \
 /home/thomas/gpii/android/platform/app/bin/AndroidManifest.xml \

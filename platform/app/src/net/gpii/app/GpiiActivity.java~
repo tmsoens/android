@@ -47,7 +47,7 @@ public class GpiiActivity extends Activity
 
         checkGPIIServer();
 //        gpiiStatus.requestFocus();
-		finish();
+	//	finish();
     }
 
     protected void checkGPIIServer (){
@@ -56,15 +56,7 @@ public class GpiiActivity extends Activity
     }
 
     public void updateStatus (Object status) {
-        if (status == (Object) GpiiActivity.GPII_STATE_RUNNING){
-            gpiiStatus.setText(R.string.gpii_status_running);
-            gpiiStatus.setBackgroundColor(Color.GREEN);
-            gpiiStatus.setTypeface(null,Typeface.BOLD);
-        } else {
-            gpiiStatus.setText(R.string.gpii_status_not_running);
-            gpiiStatus.setBackgroundColor(Color.RED);
-            gpiiStatus.setTypeface(null,Typeface.BOLD);
-        }
+
     }
 
     class SocketClient extends AsyncTask {

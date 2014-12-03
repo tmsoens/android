@@ -1,0 +1,1747 @@
+--------- beginning of /dev/log/main
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={155,158,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={154,158,42,63}!
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={152,157,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,156,42,63}!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.50 dB -  32.00 dB =   2.50 dB SQI=44 SSI=90 [BER ready ? =Y] ber=0.000041
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={146,154,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,152,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={144,150,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000043
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=45 SSI=90 [BER ready ? =Y] ber=0.000042
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={144,149,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/TimerImpl( 2587): MsgHandler Wait
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={144,148,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000041
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,148,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={146,147,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={147,147,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={148,147,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={149,147,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={149,146,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={149,144,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={149,140,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={149,136,42,63}!
+--------- beginning of /dev/log/system
+V/AlarmManager( 2198): Checking for alarms... rtc=1412004309538, elapsed=28183705
+V/AlarmManager( 2198): Checking active alarm when=1412004309538 Alarm{2c7b00f8 type 1 com.android.vending}
+V/AlarmManager( 2198): Alarm triggering: Alarm{2c7b00f8 type 1 com.android.vending}
+V/AlarmManager( 2198): Checking active alarm when=1412004330000 Alarm{2c6cd6c0 type 1 org.droidtv.settings}
+V/AlarmManager( 2198): sending alarm Alarm{2c7b00f8 type 1 com.android.vending}
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={149,133,42,63}!
+W/pqdrivers/pqtempsensordrv/mctrl( 1871): [src/comps/pqtempsensordrv/src/pqtempsensordrv_mctrl.c:142]: m_instance.power_mode == POWERMODE_ON failed
+E/pqcontrol/genatv/tmpctrl/meas( 1871): Error code (8:STATUS_ERR_INVALID_STATE) failed at src/comps/tpvatvGenericAutoTv/src/comps/tpvatvTempControlMeas/src/tpvatvTempControlMeas.c:getTconCtrlTemperature:355
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={149,130,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={149,128,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={149,127,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/Finsky  ( 2407): [1] 5.onFinished: Installation state replication succeeded.
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,126,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,124,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,117,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,107,42,63}!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,96,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/TimerImpl( 2587): MsgHandler Wait
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,85,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,85,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,85,42,63}!
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,78,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,74,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,71,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={150,72,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000034
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={150,73,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={149,72,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={148,71,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={147,71,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={146,71,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,72,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={145,73,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,74,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={144,74,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={142,74,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={138,74,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={136,73,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={134,73,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={132,73,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={130,73,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/TimerImpl( 2587): MsgHandler Wait
+I/pqdrivers/pqnt314drv/mdrv( 1871): Novatek Watchdog [0xFC, 0xFD, 0xFE, 0xFF] = [0x 0, 0x 0, 0x31, 0x72]
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={129,73,42,63}!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=49 SSI=90 [BER ready ? =Y] ber=0.000036
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={129,72,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={128,71,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=49 SSI=90 [BER ready ? =Y] ber=0.000036
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=49 SSI=90 [BER ready ? =Y] ber=0.000036
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={126,70,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,69,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={125,68,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.25 dB -  32.00 dB =   2.25 dB SQI=44 SSI=90 [BER ready ? =Y] ber=0.000038
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,67,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={126,67,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={126,67,42,63}!
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: isActiveInterfaceAvailable eth0 
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): getActiveNetworkIpAddress: Printing the IP address for Ethernet 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: Registering with HOST IP Address : 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: PrinTING nsd service information : name: 5_PhilipsTvtype: _philipstv_rpc._tcp.host: /192.168.1.147port: 1925txtRecord: null
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): onUnregistrationFailed: Failed to unregister the service
+D/NsdService( 2198): Register service
+D/NsdService( 2198): Exceeded max outstanding requests mChannel com.android.internal.util.AsyncChannel@2c7974f8
+D/NsdService( 2198): mMessenger android.os.Messenger@2c797498
+D/NsdService( 2198): mResolvedService null
+D/NsdService( 2198): clientId 1 mDnsId 2
+D/NsdService( 2198): clientId 2 mDnsId 3
+D/NsdService( 2198): clientId 3 mDnsId 4
+D/NsdService( 2198): clientId 4 mDnsId 5
+D/NsdService( 2198): clientId 5 mDnsId 6
+D/NsdService( 2198): clientId 6 mDnsId 7
+D/NsdService( 2198): clientId 7 mDnsId 8
+D/NsdService( 2198): clientId 8 mDnsId 9
+D/NsdService( 2198): clientId 9 mDnsId 10
+D/NsdService( 2198): clientId 10 mDnsId 11
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={126,67,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,66,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={125,65,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,64,42,63}!
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 29
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 29
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+E/GetDisplayState( 1871): Entry
+I/displaycontrol/DisplayCtrl/ctrl( 1871):  In displayctrl_getCurrentDisplayState :2 
+E/GetDisplayState( 1871): Exit
+D/TimerImpl( 2587): MsgHandler Wait
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={124,64,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={123,64,42,63}!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=49 SSI=90 [BER ready ? =Y] ber=0.000035
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={124,64,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedIntensity, 42
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 55
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 55
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedFlashing, 139 
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 58
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 58
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+D/rf4ce_events( 1871): ZRC: hex = 0x00 dec = 0    press  OK(RC6: 92) #270
+E/rf4ce_events( 1871): key = 0 action = press  name = OK
+D/rf4ce_events( 1871): DOWN key = 220
+E/rf4ce_events( 1871): RF4CE : Sending Left Click 
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=49 SSI=90 [BER ready ? =Y] ber=0.000035
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={128,64,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000038
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={132,64,42,63}!
+I/v_gralloc( 1872): bg2_gralloc_alloc:89 enter, w=1280, h=720, format=0x1, usage=0x800b00
+I/v_gralloc( 1872):  > Map buffer=0x30857d00: surface=0x30eb3ce8 physical=0x1fc98000 logical=0x32295000
+I/v_gralloc( 1872): Allocate buffer=0x30857d00  for pid=3828: size=1280x720 format=1 usage=0x00800B00 info=23:6:384000-0:0:0
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={132,64,42,63}!
+I/v_gralloc( 1872): bg2_gralloc_alloc:225,  handle=0x30857ce0, alignedWidth=1280, alignedHeight=720, stride=5120, ori_phys=0x1fc98000, cur_phy=0x1fc98000, pixelFormat=19,android_Format=1, vaddr=0x32295000
+I/v_gralloc( 1872): OVERLAY: Unexpected format ot usage[F:1, U:8391424]
+I/v_gralloc( 3828):  > Map buffer=0x542ffda0: surface=0x5380e550 physical=0x1fc98000 logical=0x55622000
+I/v_gralloc( 3828): Register buffer=0x542ffd80 from pid=3828: size=1280x720 format=1 usage=0x00800B00 info=23:6:384000-0:0:0
+I/v_gralloc( 3828): bg2_gralloc_register_buffer:428, handle=0x542ffd80, width=1280, height=720, surface=0x5380e550, phy=0x1fc98000, halFormat=306
+I/v_gralloc( 3828): bg2_gralloc_register_buffer:481, AMP_BD_Map finished, err=0x0, BDId=0x34a, hnd->hBD=0x4b946000
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000038
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+E/rf4ce_events( 1871): ZRC: 0x00    release OK
+D/rf4ce_events( 1871): Up key = 220
+E/rf4ce_events( 1871): RF4CE : Sending Click Released 
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={136,64,42,63}!
+D/InputEventConsistencyVerifier( 3828): TouchEvent: Source was not SOURCE_CLASS_POINTER.
+D/InputEventConsistencyVerifier( 3828):   in android.view.ScaleGestureDetector@2c357a28
+D/InputEventConsistencyVerifier( 3828):   0: sent at 28185304000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185304, downTime=28185304, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   -- recent events --
+D/InputEventConsistencyVerifier( 3828):   1: sent at 28006436000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006436, downTime=28006436, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   2: sent at 28006431000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006431, downTime=28006431, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   3: sent at 28005101000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28005101, downTime=28005101, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   4: sent at 28005068000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28005068, downTime=28005068, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   5: sent at 28003840000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28003840, downTime=28003840, deviceId=0, source=0x0 }
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={136,64,42,63}!
+I/v_gralloc( 1872): bg2_gralloc_alloc:89 enter, w=1280, h=720, format=0x1, usage=0x800b00
+I/v_gralloc( 1872):  > Map buffer=0x3200fa38: surface=0x30eb31e0 physical=0x21d70000 logical=0x3276b000
+I/v_gralloc( 1872): Allocate buffer=0x3200fa38  for pid=3828: size=1280x720 format=1 usage=0x00800B00 info=24:6:384000-0:0:0
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={136,64,42,63}!
+I/v_gralloc( 1872): bg2_gralloc_alloc:225,  handle=0x3200fa18, alignedWidth=1280, alignedHeight=720, stride=5120, ori_phys=0x21d70000, cur_phy=0x21d70000, pixelFormat=19,android_Format=1, vaddr=0x3276b000
+I/v_gralloc( 1872): OVERLAY: Unexpected format ot usage[F:1, U:8391424]
+I/v_gralloc( 3828):  > Map buffer=0x54a03448: surface=0x4f3438f8 physical=0x21d70000 logical=0x59e26000
+I/v_gralloc( 3828): Register buffer=0x54a03428 from pid=3828: size=1280x720 format=1 usage=0x00800B00 info=24:6:384000-0:0:0
+I/v_gralloc( 3828): bg2_gralloc_register_buffer:428, handle=0x54a03428, width=1280, height=720, surface=0x4f3438f8, phy=0x21d70000, halFormat=306
+I/v_gralloc( 3828): bg2_gralloc_register_buffer:481, AMP_BD_Map finished, err=0x0, BDId=0x358, hnd->hBD=0x4f27d000
+E/rf4cetargetreceive( 1871): HID Timer Restrted in repeat event
+E/rf4ce_events( 1871): HID Timer is not Started Yet 
+E/rf4ce_events( 1871): Timer Started
+D/InputEventConsistencyVerifier( 3828): TouchEvent: Source was not SOURCE_CLASS_POINTER.
+D/InputEventConsistencyVerifier( 3828):   in android.view.ScaleGestureDetector@2c357a28
+D/InputEventConsistencyVerifier( 3828):   0: sent at 28185347000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185347, downTime=28185347, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   -- recent events --
+D/InputEventConsistencyVerifier( 3828):   1: sent at 28185304000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185304, downTime=28185304, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   2: sent at 28006436000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006436, downTime=28006436, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   3: sent at 28006431000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006431, downTime=28006431, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   4: sent at 28005101000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28005101, downTime=28005101, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   5: sent at 28005068000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28005068, downTime=28005068, deviceId=0, source=0x0 }
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+D/node.js (  456): 17:25:11.200:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/TimerImpl( 2587): MsgHandler Wait
+D/node.js (  456): 17:25:11.273:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1116 to list of 2 listeners
+D/node.js (  456): 17:25:11.276:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1116 to list of 1 listeners
+D/node.js (  456): 17:25:11.277:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1116 to list of 1 listeners
+D/node.js (  456): 17:25:11.277:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1116 to list of 1 listeners
+D/node.js (  456): 17:25:11.280:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:11.280:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1116 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,57,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:11.317:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1134 to list of 1 listeners
+D/node.js (  456): 17:25:11.322:   Firing event onUserListener of component with typename kettle.requests.request.handler and id 7ot1wxfn-1134 to list of 2 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={145,56,42,63}!
+D/node.js (  456): 17:25:11.330:   INFO urlExpander expanding url: http://localhost:0x4ca1bbf4ort/user/tvuser
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:11.336:   INFO urlExpander expanded: http://localhost:8081/user/tvuser
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,55,42,63}!
+D/node.js (  456): 17:25:11.350:   INFO urlExpander expanding url: http://localhost:0x4ca254d0ort/device
+D/node.js (  456): 17:25:11.350:   INFO urlExpander expanded: http://localhost:8081/device
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={145,54,42,63}!
+D/node.js (  456): 17:25:11.374:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,53,42,63}!
+D/node.js (  456): 17:25:11.407:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1156 to list of 2 listeners
+D/node.js (  456): 17:25:11.408:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1156 to list of 1 listeners
+D/node.js (  456): 17:25:11.409:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1156 to list of 1 listeners
+D/node.js (  456): 17:25:11.410:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1156 to list of 1 listeners
+D/node.js (  456): 17:25:11.412:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:11.413:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1156 to list of 1 listeners
+D/node.js (  456): 17:25:11.431:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1174 to list of 1 listeners
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/node.js (  456): 17:25:11.439:   INFO urlExpander expanding url: file://root/../../../testData/deviceReporter/installedSolutions.json
+D/node.js (  456): 17:25:11.439:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/deviceReporter/../../../testData/deviceReporter/installedSolutions.json
+D/node.js (  456): 17:25:11.442:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000039
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={145,54,42,63}!
+D/node.js (  456): 17:25:11.469:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1182 to list of 2 listeners
+D/node.js (  456): 17:25:11.471:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1182 to list of 1 listeners
+D/node.js (  456): 17:25:11.473:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1182 to list of 1 listeners
+D/node.js (  456): 17:25:11.474:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1182 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:11.476:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:11.476:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1182 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={145,55,42,63}!
+D/node.js (  456): 17:25:11.495:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1200 to list of 1 listeners
+D/node.js (  456): 17:25:11.500:   INFO urlExpander expanding url: file://root/../../../testData/preferences/tvuser.json
+D/node.js (  456): 17:25:11.501:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/preferencesServer/../../../testData/preferences/tvuser.json
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000039
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/node.js (  456): 17:25:11.506:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:11.506:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1156 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000038
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/node.js (  456): 17:25:11.518:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:11.518:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1182 to list of 1 listeners
+D/node.js (  456): 17:25:11.528:   Fetched device reporter data:  { solutions: 
+D/node.js (  456):    [ { id: 'net.gpii.smarthouses' },
+D/node.js (  456):      { id: 'org.gnome.desktop.interface' },
+D/node.js (  456):      { id: 'org.gnome.shell.overrides' },
+D/node.js (  456):      { id: 'org.gnome.desktop.wm.preferences' },
+D/node.js (  456):      { id: 'org.gnome.nautilus' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.keyboard' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.applications.onscreen-keyboard' },
+D/node.js (  456):      { id: 'org.gnome.orca' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.magnifier' },
+D/node.js (  456):      { id: 'com.microsoft.windows.magnifier' },
+D/node.js (  456):      { id: 'com.microsoft.windows.onscreenKeyboard' },
+D/node.js (  456):      { id: 'org.nvda-project' },
+D/node.js (  456):      { id: 'org.gnome.desktop.interface' },
+D/node.js (  456):      { id: 'org.gnome.nautilus' },
+D/node.js (  456):      { id: 'trace.easyOne.communicator.windows' },
+D/node.js (  456):      { id: 'trace.easyOne.communicator.linux' },
+D/node.js (  456):      { id: 'trace.easyOne.sudan.windows' },
+D/node.js (  456):      { id: 'trace.easyOne.sudan.linux' },
+D/node.js (  456):      { id: 'webinsight.webAnywhere.windows' },
+D/node.js (  456):      { id: 'webinsight.webAnywhere.linux' },
+D/node.js (  456):      { id: 'com.texthelp.readWriteGold' },
+D/node.js (  456):      { id: 'net.opend
+D/node.js (  456): 17:25:11.535:   Firing event onDevice of component with typename kettle.requests.request.handler and id 7ot1wxfn-1134 to list of 1 listeners
+D/node.js (  456): 17:25:11.544:   Fetched user preferences:  { token: 'tvuser',
+D/node.js (  456):   preferences: { 'http://registry.gpii.org/applications/com.tpvision.gpiitvproxy': [ [Object] ] } }
+D/node.js (  456): 17:25:11.548:   Firing event onPreferences of component with typename kettle.requests.request.handler and id 7ot1wxfn-1134 to list of 1 listeners
+D/node.js (  456): 17:25:11.551:   Firing event  [composite] onReadyToMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1134 to list of 2 listeners
+D/node.js (  456): 17:25:11.555:   INFO urlExpander expanding url: http://localhost:0x4c81b0acort/match
+D/node.js (  456): 17:25:11.555:   INFO urlExpander expanded: http://localhost:8081/match
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000038
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+D/node.js (  456): 17:25:11.574:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={144,55,42,63}!
+D/node.js (  456): 17:25:11.600:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1208 to list of 2 listeners
+D/node.js (  456): 17:25:11.604:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1208 to list of 1 listeners
+D/node.js (  456): 17:25:11.606:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1208 to list of 1 listeners
+D/node.js (  456): 17:25:11.606:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1208 to list of 1 listeners
+D/node.js (  456): 17:25:11.612:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:11.612:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1208 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={143,55,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={142,54,42,63}!
+D/node.js (  456): 17:25:11.648:   Firing event onAttach of component with typename gpii.matchMaker and id 7ot1wxfn-320 to list of 1 listeners
+D/node.js (  456): 17:25:11.652:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1226 to list of 1 listeners
+D/node.js (  456): 17:25:11.655:   Firing event onMatchRequest of component with typename kettle.requests.request.handler and id 7ot1wxfn-1226 to list of 2 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:11.658:   INFO urlExpander expanding url: file://root/../../../testData/solutions/android.json
+D/node.js (  456): 17:25:11.658:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/matchMaker/../../../testData/solutions/android.json
+D/node.js (  456): 17:25:11.662:   INFO urlExpander expanding url: file://root/../../../testData/ontologies/ontologies.json
+D/node.js (  456): 17:25:11.662:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/matchMaker/../../../testData/ontologies/ontologies.json
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={141,54,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:11.683:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.685:   Firing event onOntologyServer of component with typename kettle.requests.request.handler and id 7ot1wxfn-1226 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={140,54,42,63}!
+E/rf4ce_events( 1871): RF4CE : timerExpired = 4 
+E/rf4ce_events( 1871): clearing the timer with id = 4 
+E/rf4ce_events( 1871): HID Timer Cleared
+D/node.js (  456): 17:25:11.699:   Firing event onSolutionsReporter of component with typename kettle.requests.request.handler and id 7ot1wxfn-1226 to list of 1 listeners
+D/node.js (  456): 17:25:11.701:   Firing event  [composite] onReadyToMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1226 to list of 1 listeners
+D/node.js (  456): 17:25:11.716:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:11.716:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1208 to list of 1 listeners
+D/node.js (  456): 17:25:11.721:   Matched preferences and device reporter data:  [ { name: 'Android TV',
+D/node.js (  456):     id: 'com.tpvision.gpiitvproxy',
+D/node.js (  456):     contexts: { OS: [Object] },
+D/node.js (  456):     settingsHandlers: [ [Object] ],
+D/node.js (  456):     lifecycleManager: { start: [Object], stop: [Object] } } ]
+D/node.js (  456): 17:25:11.723:   Firing event onMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1134 to list of 1 listeners
+V/bridge-core(  456): Env::load(): ent
+I/GPII js (  456): got a get request for volume with type TV
+I/GPII js (  456): got a set request for volume with type TV
+I/GPII js (  456): got a get request for screenOff with type TV
+I/GPII js (  456): got a set request for screenOff with type TV
+I/GPII js (  456): got a get request for subtitles with type TV
+I/GPII js (  456): got a set request for subtitles with type TV
+D/node.js (  456): 17:25:11.740:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.741:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.742:   Firing event guard event to list of 0 listeners
+D/TimerImpl( 2587): MsgHandler Wait
+D/node.js (  456): 17:25:11.747:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.748:   Firing event guard event to list of 0 listeners
+V/bridge-core(  456): Env::load(): ent
+I/GPII js (  456): got a get request for volume with type TV
+I/GPII js (  456): got a set request for volume with type TV
+I/GPII js (  456): got a get request for screenOff with type TV
+I/GPII js (  456): got a set request for screenOff with type TV
+I/GPII js (  456): got a get request for subtitles with type TV
+I/GPII js (  456): got a set request for subtitles with type TV
+D/node.js (  456): 17:25:11.762:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.763:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.764:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.767:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.768:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:11.769:   Lifecycle manager returned:  true
+D/node.js (  456): 17:25:11.770:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:11.770:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1116 to list of 1 listeners
+I/v_gralloc( 1872): bg2_gralloc_alloc:89 enter, w=1280, h=720, format=0x1, usage=0x100b00
+I/v_gralloc( 1872):  > Map buffer=0x30857500: surface=0x31ef5818 physical=0x220f4000 logical=0x33ddd000
+I/v_gralloc( 1872): Allocate buffer=0x30857500  for pid=3828: size=1280x720 format=1 usage=0x00100B00 info=25:6:3c4000-26:6:3e00
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_gralloc( 1872): bg2_gralloc_alloc:225,  handle=0x308574e0, alignedWidth=1280, alignedHeight=768, stride=5120, ori_phys=0x220f4000, cur_phy=0x22130000, pixelFormat=19,android_Format=1, vaddr=0x33ddd000
+I/v_gralloc( 1872): OVERLAY: Unexpected format ot usage[F:1, U:1051392]
+I/v_gralloc( 3828):  > Map buffer=0x543009b0: surface=0x53f26ba8 physical=0x220f4000 logical=0x5a1aa000
+I/v_gralloc( 3828): Register buffer=0x54300990 from pid=3828: size=1280x720 format=1 usage=0x00100B00 info=25:6:3c4000-26:6:3e00
+I/v_gralloc( 3828): bg2_gralloc_register_buffer:428, handle=0x54300990, width=1280, height=720, surface=0x53f26ba8, phy=0x220f4000, halFormat=212
+I/v_gralloc( 3828): bg2_gralloc_register_buffer:481, AMP_BD_Map finished, err=0x0, BDId=0x34b, hnd->hBD=0x4f3ca000
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={139,54,42,63}!
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={137,53,42,63}!
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={135,52,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={134,51,42,63}!
+I/monitord(  994): [main] monitord timestamp : 28186129
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: isActiveInterfaceAvailable eth0 
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): getActiveNetworkIpAddress: Printing the IP address for Ethernet 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: Registering with HOST IP Address : 192.168.1.147
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={133,51,42,63}!
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: PrinTING nsd service information : name: 5_PhilipsTvtype: _philipstv_rpc._tcp.host: /192.168.1.147port: 1925txtRecord: null
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): onUnregistrationFailed: Failed to unregister the service
+D/NsdService( 2198): Register service
+D/NsdService( 2198): Exceeded max outstanding requests mChannel com.android.internal.util.AsyncChannel@2c7974f8
+D/NsdService( 2198): mMessenger android.os.Messenger@2c797498
+D/NsdService( 2198): mResolvedService null
+D/NsdService( 2198): clientId 1 mDnsId 2
+D/NsdService( 2198): clientId 2 mDnsId 3
+D/NsdService( 2198): clientId 3 mDnsId 4
+D/NsdService( 2198): clientId 4 mDnsId 5
+D/NsdService( 2198): clientId 5 mDnsId 6
+D/NsdService( 2198): clientId 6 mDnsId 7
+D/NsdService( 2198): clientId 7 mDnsId 8
+D/NsdService( 2198): clientId 8 mDnsId 9
+D/NsdService( 2198): clientId 9 mDnsId 10
+D/NsdService( 2198): clientId 10 mDnsId 11
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={132,51,42,63}!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.25 dB -  32.00 dB =   2.25 dB SQI=41 SSI=90 [BER ready ? =Y] ber=0.000051
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={128,51,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={126,51,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,51,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=45 SSI=90 [BER ready ? =Y] ber=0.000051
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=44 SSI=90 [BER ready ? =Y] ber=0.000048
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={124,50,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={124,49,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.50 dB -  32.00 dB =   2.50 dB SQI=43 SSI=90 [BER ready ? =Y] ber=0.000048
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+D/TimerImpl( 2587): MsgHandler Wait
+I/pqdrivers/pqnt314drv/mdrv( 1871): Novatek Watchdog [0xFC, 0xFD, 0xFE, 0xFF] = [0x 0, 0x 0, 0x31, 0x72]
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [0] isInstallationinProgress is 0
+D/ciplus/shunning/cescipctl_mshun( 2097):  
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [0] Elapsed time is 0s 826240872 in int
+D/ciplus/shunning/cescipctl_mshun( 2097):  
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [0] Entering Function mCheckAndApplyShunningForVod 
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [0] 735 Current service is not a VOD service, Preset ID 4 
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [0] FuncDateStampChanged 554
+D/ciplus/shunning/cescipctl_mshun( 2097):  
+D//hsvpgdat_pgdb( 2097):   Token = [0]  ipgdb_GetByKey: 1663 Preparecount : [0] 
+D/        ( 2097): TVSettingsProviderService | NativeLibrary : getInt Done  for property=186 & value=8
+D/zap/pgdat/hsvpgdat_mpgdat( 2097):   Token = [0] OperatorProfile Installation 0  
+D/        ( 2097): TVSettingsProviderService | NativeLibrary : getInt Done  for property=186 & value=8
+D//hsvpgdat_pgdb( 2097):   Token = [0] OperatorProfile Installation 0  
+D//hsvpgdat_pgdb( 2097):   Token = [0] QueryString for SVCTable is SELECT * FROM DigSrvTable WHERE OriginalNetworkId = 1 AND ServiceId = 1104 AND Frequency = 298000 AND StreamPriority = 0  
+D//hsvpgdat_pgdb( 2097):   Token = [0]  ipgdb_GetByKey: 1663 Preparecount : [0] 
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [0] DateTime is not large enough.. No need to write into DB
+D/ciplus/shunning/cescipctl_mshun( 2097):  
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={124,50,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={124,51,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={125,53,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={126,55,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={130,56,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={132,56,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={133,56,42,63}!
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedIntensity, 42
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 55
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 55
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedFlashing, 139 
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 58
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 58
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+D/rf4ce_events( 1871): ZRC: hex = 0x00 dec = 0    press  OK(RC6: 92) #271
+E/rf4ce_events( 1871): key = 0 action = press  name = OK
+D/rf4ce_events( 1871): DOWN key = 220
+E/rf4ce_events( 1871): RF4CE : Sending Left Click 
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={134,56,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.25 dB -  32.00 dB =   2.25 dB SQI=43 SSI=90 [BER ready ? =Y] ber=0.000042
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={134,56,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={134,56,42,63}!
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000047
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedIntensity, 42
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 55
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 55
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedFlashing, 139 
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 58
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 58
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+E/rf4ce_events( 1871): ZRC: 0x00    repeat OK
+E/rf4ce_events( 1871): RC6 Timer is not Started Yet 
+E/rf4ce_events( 1871): Timer Started
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.50 dB -  32.00 dB =   2.50 dB SQI=45 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 29
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 29
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+E/GetDisplayState( 1871): Entry
+I/displaycontrol/DisplayCtrl/ctrl( 1871):  In displayctrl_getCurrentDisplayState :2 
+E/GetDisplayState( 1871): Exit
+D/TimerImpl( 2587): MsgHandler Wait
+E/rf4ce_events( 1871): ZRC: 0x00    release OK
+D/rf4ce_events( 1871): Up key = 220
+E/rf4ce_events( 1871): RF4CE : Sending Click Released 
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={135,56,42,63}!
+D/InputEventConsistencyVerifier( 3828): TouchEvent: Source was not SOURCE_CLASS_POINTER.
+D/InputEventConsistencyVerifier( 3828):   in android.view.ScaleGestureDetector@2c357a28
+D/InputEventConsistencyVerifier( 3828):   0: sent at 28186951000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186951, downTime=28186951, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   -- recent events --
+D/InputEventConsistencyVerifier( 3828):   1: sent at 28185347000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185347, downTime=28185347, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   2: sent at 28185304000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185304, downTime=28185304, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   3: sent at 28006436000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006436, downTime=28006436, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   4: sent at 28006431000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006431, downTime=28006431, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   5: sent at 28005101000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28005101, downTime=28005101, deviceId=0, source=0x0 }
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={135,56,42,63}!
+D/InputEventConsistencyVerifier( 3828): TouchEvent: Source was not SOURCE_CLASS_POINTER.
+D/InputEventConsistencyVerifier( 3828):   in android.view.ScaleGestureDetector@2c357a28
+D/InputEventConsistencyVerifier( 3828):   0: sent at 28186961000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186961, downTime=28186961, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   -- recent events --
+D/InputEventConsistencyVerifier( 3828):   1: sent at 28186951000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186951, downTime=28186951, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   2: sent at 28185347000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185347, downTime=28185347, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   3: sent at 28185304000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185304, downTime=28185304, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   4: sent at 28006436000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006436, downTime=28006436, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   5: sent at 28006431000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006431, downTime=28006431, deviceId=0, source=0x0 }
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={135,56,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={134,52,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/node.js (  456): 17:25:12.819:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={132,52,42,63}!
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={131,52,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:12.862:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1264 to list of 2 listeners
+D/node.js (  456): 17:25:12.864:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1264 to list of 1 listeners
+D/node.js (  456): 17:25:12.866:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1264 to list of 1 listeners
+D/node.js (  456): 17:25:12.867:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1264 to list of 1 listeners
+D/node.js (  456): 17:25:12.868:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:12.868:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1264 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={130,52,42,63}!
+D/GenTvplayer( 1871): Entering transmit
+D/GenTvplayer( 1871): Leaving transmit
+D/cec     ( 1871): Entering Gen_power_adc_GetADCValue 
+D/cec     ( 1871): Gen_power_adc_GetADCValue channel :2
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 29
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 29
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+D/cec     ( 1871): Leaving Gen_power_adc_GetADCValue 
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={129,52,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:12.905:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1282 to list of 1 listeners
+D/node.js (  456): 17:25:12.908:   Firing event onUserListener of component with typename kettle.requests.request.handler and id 7ot1wxfn-1282 to list of 2 listeners
+D/node.js (  456): 17:25:12.912:   INFO urlExpander expanding url: http://localhost:0x4c845e3cort/user/tvuser
+D/node.js (  456): 17:25:12.912:   INFO urlExpander expanded: http://localhost:8081/user/tvuser
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={128,52,42,63}!
+D/node.js (  456): 17:25:12.918:   INFO urlExpander expanding url: http://localhost:0x4c84c844ort/device
+D/node.js (  456): 17:25:12.918:   INFO urlExpander expanded: http://localhost:8081/device
+D/node.js (  456): 17:25:12.922:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:12.949:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1304 to list of 2 listeners
+D/node.js (  456): 17:25:12.950:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1304 to list of 1 listeners
+D/node.js (  456): 17:25:12.951:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1304 to list of 1 listeners
+D/node.js (  456): 17:25:12.952:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1304 to list of 1 listeners
+D/node.js (  456): 17:25:12.953:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:12.953:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1304 to list of 1 listeners
+D/node.js (  456): 17:25:12.968:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1322 to list of 1 listeners
+D/node.js (  456): 17:25:12.973:   INFO urlExpander expanding url: file://root/../../../testData/deviceReporter/installedSolutions.json
+D/node.js (  456): 17:25:12.973:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/deviceReporter/../../../testData/deviceReporter/installedSolutions.json
+D/node.js (  456): 17:25:12.975:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:13.001:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1330 to list of 2 listeners
+D/node.js (  456): 17:25:13.002:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1330 to list of 1 listeners
+D/node.js (  456): 17:25:13.003:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1330 to list of 1 listeners
+D/node.js (  456): 17:25:13.003:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1330 to list of 1 listeners
+D/node.js (  456): 17:25:13.003:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:13.004:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1330 to list of 1 listeners
+D/node.js (  456): 17:25:13.020:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1348 to list of 1 listeners
+D/node.js (  456): 17:25:13.026:   INFO urlExpander expanding url: file://root/../../../testData/preferences/tvuser.json
+D/node.js (  456): 17:25:13.026:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/preferencesServer/../../../testData/preferences/tvuser.json
+D/node.js (  456): 17:25:13.029:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:13.030:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1304 to list of 1 listeners
+D/node.js (  456): 17:25:13.034:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:13.035:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1330 to list of 1 listeners
+D/node.js (  456): 17:25:13.039:   Fetched device reporter data:  { solutions: 
+D/node.js (  456):    [ { id: 'net.gpii.smarthouses' },
+D/node.js (  456):      { id: 'org.gnome.desktop.interface' },
+D/node.js (  456):      { id: 'org.gnome.shell.overrides' },
+D/node.js (  456):      { id: 'org.gnome.desktop.wm.preferences' },
+D/node.js (  456):      { id: 'org.gnome.nautilus' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.keyboard' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.applications.onscreen-keyboard' },
+D/node.js (  456):      { id: 'org.gnome.orca' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.magnifier' },
+D/node.js (  456):      { id: 'com.microsoft.windows.magnifier' },
+D/node.js (  456):      { id: 'com.microsoft.windows.onscreenKeyboard' },
+D/node.js (  456):      { id: 'org.nvda-project' },
+D/node.js (  456):      { id: 'org.gnome.desktop.interface' },
+D/node.js (  456):      { id: 'org.gnome.nautilus' },
+D/node.js (  456):      { id: 'trace.easyOne.communicator.windows' },
+D/node.js (  456):      { id: 'trace.easyOne.communicator.linux' },
+D/node.js (  456):      { id: 'trace.easyOne.sudan.windows' },
+D/node.js (  456):      { id: 'trace.easyOne.sudan.linux' },
+D/node.js (  456):      { id: 'webinsight.webAnywhere.windows' },
+D/node.js (  456):      { id: 'webinsight.webAnywhere.linux' },
+D/node.js (  456):      { id: 'com.texthelp.readWriteGold' },
+D/node.js (  456):      { id: 'net.opend
+D/node.js (  456): 17:25:13.042:   Firing event onDevice of component with typename kettle.requests.request.handler and id 7ot1wxfn-1282 to list of 1 listeners
+D/node.js (  456): 17:25:13.045:   Fetched user preferences:  { token: 'tvuser',
+D/node.js (  456):   preferences: { 'http://registry.gpii.org/applications/com.tpvision.gpiitvproxy': [ [Object] ] } }
+D/node.js (  456): 17:25:13.046:   Firing event onPreferences of component with typename kettle.requests.request.handler and id 7ot1wxfn-1282 to list of 1 listeners
+D/node.js (  456): 17:25:13.049:   Firing event  [composite] onReadyToMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1282 to list of 2 listeners
+D/node.js (  456): 17:25:13.052:   INFO urlExpander expanding url: http://localhost:0x4cadfe78ort/match
+D/node.js (  456): 17:25:13.052:   INFO urlExpander expanded: http://localhost:8081/match
+D/node.js (  456): 17:25:13.061:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:13.088:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1356 to list of 2 listeners
+D/node.js (  456): 17:25:13.089:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1356 to list of 1 listeners
+D/node.js (  456): 17:25:13.089:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1356 to list of 1 listeners
+D/node.js (  456): 17:25:13.090:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1356 to list of 1 listeners
+D/node.js (  456): 17:25:13.093:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:13.095:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1356 to list of 1 listeners
+D/node.js (  456): 17:25:13.120:   Firing event onAttach of component with typename gpii.matchMaker and id 7ot1wxfn-320 to list of 1 listeners
+D/node.js (  456): 17:25:13.122:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1374 to list of 1 listeners
+D/node.js (  456): 17:25:13.125:   Firing event onMatchRequest of component with typename kettle.requests.request.handler and id 7ot1wxfn-1374 to list of 2 listeners
+D/node.js (  456): 17:25:13.127:   INFO urlExpander expanding url: file://root/../../../testData/solutions/android.json
+D/node.js (  456): 17:25:13.127:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/matchMaker/../../../testData/solutions/android.json
+D/node.js (  456): 17:25:13.130:   INFO urlExpander expanding url: file://root/../../../testData/ontologies/ontologies.json
+D/node.js (  456): 17:25:13.130:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/matchMaker/../../../testData/ontologies/ontologies.json
+D/node.js (  456): 17:25:13.140:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.141:   Firing event onOntologyServer of component with typename kettle.requests.request.handler and id 7ot1wxfn-1374 to list of 1 listeners
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/node.js (  456): 17:25:13.153:   Firing event onSolutionsReporter of component with typename kettle.requests.request.handler and id 7ot1wxfn-1374 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000042
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/node.js (  456): 17:25:13.155:   Firing event  [composite] onReadyToMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1374 to list of 1 listeners
+D/node.js (  456): 17:25:13.165:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:13.165:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1356 to list of 1 listeners
+D/node.js (  456): 17:25:13.172:   Matched preferences and device reporter data:  [ { name: 'Android TV',
+D/node.js (  456):     id: 'com.tpvision.gpiitvproxy',
+D/node.js (  456):     contexts: { OS: [Object] },
+D/node.js (  456):     settingsHandlers: [ [Object] ],
+D/node.js (  456):     lifecycleManager: { start: [Object], stop: [Object] } } ]
+D/node.js (  456): 17:25:13.173:   Firing event onMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1282 to list of 1 listeners
+V/bridge-core(  456): Env::load(): ent
+I/GPII js (  456): got a get request for volume with type TV
+I/GPII js (  456): got a set request for volume with type TV
+E/rf4ce_events( 1871): RF4CE : timerExpired = 5 
+E/rf4ce_events( 1871): clearing the timer with id = 5 
+E/rf4ce_events( 1871): RC6 Timer Cleared
+I/GPII js (  456): got a get request for screenOff with type TV
+I/GPII js (  456): got a set request for screenOff with type TV
+I/GPII js (  456): got a get request for subtitles with type TV
+I/GPII js (  456): got a set request for subtitles with type TV
+D/node.js (  456): 17:25:13.188:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.189:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.190:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.192:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.193:   Firing event guard event to list of 0 listeners
+V/bridge-core(  456): Env::load(): ent
+I/GPII js (  456): got a get request for volume with type TV
+I/GPII js (  456): got a set request for volume with type TV
+I/GPII js (  456): got a get request for screenOff with type TV
+I/GPII js (  456): got a set request for screenOff with type TV
+I/GPII js (  456): got a get request for subtitles with type TV
+I/GPII js (  456): got a set request for subtitles with type TV
+D/node.js (  456): 17:25:13.202:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.203:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.205:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.207:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.208:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:13.209:   Lifecycle manager returned:  true
+D/node.js (  456): 17:25:13.209:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:13.210:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1264 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000045
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=45 SSI=90 [BER ready ? =Y] ber=0.000041
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/TimerImpl( 2587): MsgHandler Wait
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.50 dB -  32.00 dB =   2.50 dB SQI=44 SSI=90 [BER ready ? =Y] ber=0.000041
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={128,51,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={128,50,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={127,50,42,63}!
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: isActiveInterfaceAvailable eth0 
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): getActiveNetworkIpAddress: Printing the IP address for Ethernet 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: Registering with HOST IP Address : 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: PrinTING nsd service information : name: 5_PhilipsTvtype: _philipstv_rpc._tcp.host: /192.168.1.147port: 1925txtRecord: null
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): onUnregistrationFailed: Failed to unregister the service
+D/NsdService( 2198): Register service
+D/NsdService( 2198): Exceeded max outstanding requests mChannel com.android.internal.util.AsyncChannel@2c7974f8
+D/NsdService( 2198): mMessenger android.os.Messenger@2c797498
+D/NsdService( 2198): mResolvedService null
+D/NsdService( 2198): clientId 1 mDnsId 2
+D/NsdService( 2198): clientId 2 mDnsId 3
+D/NsdService( 2198): clientId 3 mDnsId 4
+D/NsdService( 2198): clientId 4 mDnsId 5
+D/NsdService( 2198): clientId 5 mDnsId 6
+D/NsdService( 2198): clientId 6 mDnsId 7
+D/NsdService( 2198): clientId 7 mDnsId 8
+D/NsdService( 2198): clientId 8 mDnsId 9
+D/NsdService( 2198): clientId 9 mDnsId 10
+D/NsdService( 2198): clientId 10 mDnsId 11
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={127,49,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={127,48,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={128,48,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={130,48,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={134,49,42,63}!
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [2] isInstallationinProgress is 1
+D/ciplus/shunning/cescipctl_mshun( 2097):  
+D/ciplus/shunning/cescipctl_mshun( 2097):   Token = [2] Time is not set.. so no use of clock check
+D/ciplus/shunning/cescipctl_mshun( 2097):  
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={139,54,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={142,60,42,63}!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000043
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={143,64,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={143,66,42,63}!
+D/TimerImpl( 2587): MsgHandler Wait
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.50 dB -  32.00 dB =   2.50 dB SQI=44 SSI=90 [BER ready ? =Y] ber=0.000045
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedIntensity, 42
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 55
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 55
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedFlashing, 139 
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 58
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 58
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+D/rf4ce_events( 1871): ZRC: hex = 0x00 dec = 0    press  OK(RC6: 92) #272
+E/rf4ce_events( 1871): key = 0 action = press  name = OK
+D/rf4ce_events( 1871): DOWN key = 220
+E/rf4ce_events( 1871): RF4CE : Sending Left Click 
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000044
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={143,68,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={143,68,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={143,68,42,63}!
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=45 SSI=90 [BER ready ? =Y] ber=0.000044
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedIntensity, 42
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 55
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 55
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+V/ledcontrol_c( 1871): Entering ledcontrol_setLedFlashing, 139 
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 58
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 58
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+E/rf4ce_events( 1871): ZRC: 0x00    repeat OK
+E/rf4ce_events( 1871): RC6 Timer is not Started Yet 
+E/rf4ce_events( 1871): Timer Started
+D/TvAudioManager.cpp( 1871): In Update Database
+E/rf4ce_events( 1871): ZRC: 0x00    release OK
+D/rf4ce_events( 1871): Up key = 220
+E/rf4ce_events( 1871): RF4CE : Sending Click Released 
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={143,70,42,63}!
+D/InputEventConsistencyVerifier( 3828): TouchEvent: Source was not SOURCE_CLASS_POINTER.
+D/InputEventConsistencyVerifier( 3828):   in android.view.ScaleGestureDetector@2c357a28
+D/InputEventConsistencyVerifier( 3828):   0: sent at 28188168000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28188168, downTime=28188168, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   -- recent events --
+D/InputEventConsistencyVerifier( 3828):   1: sent at 28186961000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186961, downTime=28186961, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   2: sent at 28186951000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186951, downTime=28186951, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   3: sent at 28185347000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185347, downTime=28185347, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   4: sent at 28185304000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185304, downTime=28185304, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   5: sent at 28006436000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28006436, downTime=28006436, deviceId=0, source=0x0 }
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={143,70,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={127,44,42,63}!
+D/InputEventConsistencyVerifier( 3828): TouchEvent: Source was not SOURCE_CLASS_POINTER.
+D/InputEventConsistencyVerifier( 3828):   in android.view.ScaleGestureDetector@2c357a28
+D/InputEventConsistencyVerifier( 3828):   0: sent at 28188181000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28188181, downTime=28188181, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   -- recent events --
+D/InputEventConsistencyVerifier( 3828):   1: sent at 28188168000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28188168, downTime=28188168, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   2: sent at 28186961000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186961, downTime=28186961, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   3: sent at 28186951000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28186951, downTime=28186951, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   4: sent at 28185347000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185347, downTime=28185347, deviceId=0, source=0x0 }
+D/InputEventConsistencyVerifier( 3828):   5: sent at 28185304000000, MotionEvent { action=ACTION_CANCEL, id[0]=0, x[0]=0.0, y[0]=0.0, toolType[0]=TOOL_TYPE_UNKNOWN, buttonState=0, metaState=0, flags=0x80000000, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=28185304, downTime=28185304, deviceId=0, source=0x0 }
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/dalvikvm( 3828): GC_CONCURRENT freed 918K, 26% free 4561K/6104K, paused 2ms+5ms, total 31ms
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={126,44,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={125,44,42,63}!
+D/node.js (  456): 17:25:14.069:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,45,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.108:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1412 to list of 2 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={125,46,42,63}!
+D/node.js (  456): 17:25:14.110:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1412 to list of 1 listeners
+D/node.js (  456): 17:25:14.111:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1412 to list of 1 listeners
+D/node.js (  456): 17:25:14.111:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1412 to list of 1 listeners
+D/node.js (  456): 17:25:14.112:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:14.112:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1412 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,47,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.138:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1430 to list of 1 listeners
+D/node.js (  456): 17:25:14.142:   Firing event onUserListener of component with typename kettle.requests.request.handler and id 7ot1wxfn-1430 to list of 2 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={125,48,42,63}!
+D/node.js (  456): 17:25:14.145:   INFO urlExpander expanding url: http://localhost:0x4c87ac58ort/user/tvuser
+D/node.js (  456): 17:25:14.146:   INFO urlExpander expanded: http://localhost:8081/user/tvuser
+D/node.js (  456): 17:25:14.149:   INFO urlExpander expanding url: http://localhost:0x4c881590ort/device
+D/node.js (  456): 17:25:14.150:   INFO urlExpander expanded: http://localhost:8081/device
+D/node.js (  456): 17:25:14.154:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={125,49,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.186:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1452 to list of 2 listeners
+D/node.js (  456): 17:25:14.187:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1452 to list of 1 listeners
+D/node.js (  456): 17:25:14.188:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1452 to list of 1 listeners
+D/node.js (  456): 17:25:14.189:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1452 to list of 1 listeners
+D/node.js (  456): 17:25:14.189:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:14.189:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1452 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={126,49,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.207:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1470 to list of 1 listeners
+D/node.js (  456): 17:25:14.213:   INFO urlExpander expanding url: file://root/../../../testData/deviceReporter/installedSolutions.json
+D/node.js (  456): 17:25:14.213:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/deviceReporter/../../../testData/deviceReporter/installedSolutions.json
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={127,49,42,63}!
+D/node.js (  456): 17:25:14.215:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:14.240:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1478 to list of 2 listeners
+D/node.js (  456): 17:25:14.241:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1478 to list of 1 listeners
+D/node.js (  456): 17:25:14.242:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1478 to list of 1 listeners
+D/node.js (  456): 17:25:14.242:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1478 to list of 1 listeners
+D/node.js (  456): 17:25:14.243:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:14.243:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1478 to list of 1 listeners
+D/TimerImpl( 2587): MsgHandler Wait
+I/pqdrivers/pqnt314drv/mdrv( 1871): Novatek Watchdog [0xFC, 0xFD, 0xFE, 0xFF] = [0x 0, 0x 0, 0x31, 0x72]
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.263:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1496 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={127,48,42,63}!
+D/node.js (  456): 17:25:14.271:   INFO urlExpander expanding url: file://root/../../../testData/preferences/tvuser.json
+D/node.js (  456): 17:25:14.272:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/preferencesServer/../../../testData/preferences/tvuser.json
+D/node.js (  456): 17:25:14.276:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:14.277:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1452 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.283:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:14.284:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1478 to list of 1 listeners
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={128,47,42,63}!
+D/node.js (  456): 17:25:14.291:   Fetched device reporter data:  { solutions: 
+D/node.js (  456):    [ { id: 'net.gpii.smarthouses' },
+D/node.js (  456):      { id: 'org.gnome.desktop.interface' },
+D/node.js (  456):      { id: 'org.gnome.shell.overrides' },
+D/node.js (  456):      { id: 'org.gnome.desktop.wm.preferences' },
+D/node.js (  456):      { id: 'org.gnome.nautilus' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.keyboard' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.applications.onscreen-keyboard' },
+D/node.js (  456):      { id: 'org.gnome.orca' },
+D/node.js (  456):      { id: 'org.gnome.desktop.a11y.magnifier' },
+D/node.js (  456):      { id: 'com.microsoft.windows.magnifier' },
+D/node.js (  456):      { id: 'com.microsoft.windows.onscreenKeyboard' },
+D/node.js (  456):      { id: 'org.nvda-project' },
+D/node.js (  456):      { id: 'org.gnome.desktop.interface' },
+D/node.js (  456):      { id: 'org.gnome.nautilus' },
+D/node.js (  456):      { id: 'trace.easyOne.communicator.windows' },
+D/node.js (  456):      { id: 'trace.easyOne.communicator.linux' },
+D/node.js (  456):      { id: 'trace.easyOne.sudan.windows' },
+D/node.js (  456):      { id: 'trace.easyOne.sudan.linux' },
+D/node.js (  456):      { id: 'webinsight.webAnywhere.windows' },
+D/node.js (  456):      { id: 'webinsight.webAnywhere.linux' },
+D/node.js (  456):      { id: 'com.texthelp.readWriteGold' },
+D/node.js (  456):      { id: 'net.opend
+D/node.js (  456): 17:25:14.295:   Firing event onDevice of component with typename kettle.requests.request.handler and id 7ot1wxfn-1430 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000047
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.297:   Fetched user preferences:  { token: 'tvuser',
+D/node.js (  456):   preferences: { 'http://registry.gpii.org/applications/com.tpvision.gpiitvproxy': [ [Object] ] } }
+D/node.js (  456): 17:25:14.299:   Firing event onPreferences of component with typename kettle.requests.request.handler and id 7ot1wxfn-1430 to list of 1 listeners
+D/node.js (  456): 17:25:14.301:   Firing event  [composite] onReadyToMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1430 to list of 2 listeners
+D/node.js (  456): 17:25:14.305:   INFO urlExpander expanding url: http://localhost:0x4c9f2730ort/match
+D/node.js (  456): 17:25:14.305:   INFO urlExpander expanded: http://localhost:8081/match
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={129,46,42,63}!
+D/node.js (  456): 17:25:14.315:   Firing event onNewRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={130,44,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={132,43,42,63}!
+D/node.js (  456): 17:25:14.357:   Firing event onCreate of component with typename kettle.requests.request.http and id 7ot1wxfn-1504 to list of 2 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.360:   Firing event onAttach of component with typename kettle.requests.request.http and id 7ot1wxfn-1504 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000047
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/node.js (  456): 17:25:14.362:   Firing event onCORS of component with typename kettle.requests.request.http and id 7ot1wxfn-1504 to list of 1 listeners
+D/node.js (  456): 17:25:14.362:   Firing event onBodyParser of component with typename kettle.requests.request.http and id 7ot1wxfn-1504 to list of 1 listeners
+D/node.js (  456): 17:25:14.363:   Firing event onHandleRequest of component with typename kettle.requests and id 7ot1wxfn-48 to list of 1 listeners
+D/node.js (  456): 17:25:14.364:   Firing event handle of component with typename kettle.requests.request.http and id 7ot1wxfn-1504 to list of 1 listeners
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000045
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={136,43,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/ActivityManager( 2198): Total CPU usage: 25.557243%
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={143,43,42,63}!
+E/rf4ce_events( 1871): RF4CE : timerExpired = 5 
+E/rf4ce_events( 1871): clearing the timer with id = 5 
+E/rf4ce_events( 1871): RC6 Timer Cleared
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+I/ActivityManager( 2198): user+system+iowait+irq+softIrq : 26 user : 13 system : 12 iowait : 0 irq : 0 softIrq : 1
+D/node.js (  456): 17:25:14.410:   Firing event onAttach of component with typename gpii.matchMaker and id 7ot1wxfn-320 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+D/node.js (  456): 17:25:14.414:   Firing event onAttach of component with typename kettle.requests.request.handler and id 7ot1wxfn-1522 to list of 1 listeners
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={153,43,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.420:   Firing event onMatchRequest of component with typename kettle.requests.request.handler and id 7ot1wxfn-1522 to list of 2 listeners
+D/node.js (  456): 17:25:14.423:   INFO urlExpander expanding url: file://root/../../../testData/solutions/android.json
+D/node.js (  456): 17:25:14.423:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/matchMaker/../../../testData/solutions/android.json
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/node.js (  456): 17:25:14.427:   INFO urlExpander expanding url: file://root/../../../testData/ontologies/ontologies.json
+D/node.js (  456): 17:25:14.427:   INFO urlExpander expanded: file:///storage/emulated/legacy/gpii/node_modules/universal/gpii/node_modules/matchMaker/../../../testData/ontologies/ontologies.json
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000037
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={169,44,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.442:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.444:   Firing event onOntologyServer of component with typename kettle.requests.request.handler and id 7ot1wxfn-1522 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={169,44,42,63}!
+D/node.js (  456): 17:25:14.457:   Firing event onSolutionsReporter of component with typename kettle.requests.request.handler and id 7ot1wxfn-1522 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.460:   Firing event  [composite] onReadyToMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1522 to list of 1 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/node.js (  456): 17:25:14.472:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:14.473:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1504 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={169,44,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/node.js (  456): 17:25:14.481:   Matched preferences and device reporter data:  [ { name: 'Android TV',
+D/node.js (  456):     id: 'com.tpvision.gpiitvproxy',
+D/node.js (  456):     contexts: { OS: [Object] },
+D/node.js (  456):     settingsHandlers: [ [Object] ],
+D/node.js (  456):     lifecycleManager: { start: [Object], stop: [Object] } } ]
+D/node.js (  456): 17:25:14.484:   Firing event onMatch of component with typename kettle.requests.request.handler and id 7ot1wxfn-1430 to list of 1 listeners
+V/bridge-core(  456): Env::load(): ent
+I/GPII js (  456): got a get request for volume with type TV
+I/GPII js (  456): got a set request for volume with type TV
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/GPII js (  456): got a get request for screenOff with type TV
+I/GPII js (  456): got a set request for screenOff with type TV
+I/GPII js (  456): got a get request for subtitles with type TV
+I/GPII js (  456): got a set request for subtitles with type TV
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+D/WindowManager( 2198): User activity
+D/TvInactivityService( 2198): User Activity
+D/TvInactivityService( 2198): Cancelling timer
+D/TvInactivityService( 2198): Resetting timers
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={186,45,42,63}!
+D/node.js (  456): 17:25:14.506:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.508:   Firing event guard event to list of 0 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/node.js (  456): 17:25:14.511:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.515:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.516:   Firing event guard event to list of 0 listeners
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync activeState=1
+D/InputReader( 2198): InputReader wasAnyDPADKeydown: 0 pointingEnabled 1
+V/bridge-core(  456): Env::load(): ent
+I/GPII js (  456): got a get request for volume with type TV
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={191,34,42,63}!
+I/GPII js (  456): got a set request for volume with type TV
+I/GPII js (  456): got a get request for screenOff with type TV
+I/GPII js (  456): got a set request for screenOff with type TV
+I/GPII js (  456): got a get request for subtitles with type TV
+I/GPII js (  456): got a set request for subtitles with type TV
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={298,23,42,63}!
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+D/node.js (  456): 17:25:14.540:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.542:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.544:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.550:   Firing event guard event to list of 0 listeners
+D/node.js (  456): 17:25:14.554:   Firing event guard event to list of 0 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={298,23,42,63}!
+D/node.js (  456): 17:25:14.556:   Lifecycle manager returned:  true
+D/node.js (  456): 17:25:14.557:   Firing event onSuccess of component with typename kettle.requestProxy and id 7ot1wxfn-60 to list of 1 listeners
+D/node.js (  456): 17:25:14.559:   Firing event onSuccess of component with typename kettle.requests.request.http and id 7ot1wxfn-1412 to list of 1 listeners
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=3, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={367,2,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=0, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={367,2,42,63}!
+I/monitorfds(  993): Total amount of file in use:6400, limit:102605, remaining: 96205
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+E/rf4ce_events( 1871): 	 key = 240
+E/rf4ce_events( 1871): 	 key = 241
+E/rf4ce_events( 1871): HID Timer is not Started Yet 
+E/rf4ce_events( 1871): Timer Started
+E/rf4ce_events( 1871): HID Timer Cleared
+I/InputReader( 2198): KeyboardInputMapper::processKey() keyCode=0, scanCode=241 down=1
+I/InputReader( 2198): KeyboardInputMapper::processKey() NavigationMode=1
+D/InputReader( 2198): InputReader::getPointingEnabled - 1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): CursorInputMapper::sync NavigationMode=1
+I/InputReader( 2198): KeyboardInputMapper::processKey() keyCode=0, scanCode=241 down=0
+I/InputReader( 2198): KeyboardInputMapper::processKey() NavigationMode=1
+I/InputReader( 2198): Dropping key up from device TPV-RF4CE because the key was not down.  keyCode=0, scanCode=241
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=1, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085a770, disp_rect={367,2,42,63}!
+I/v_hwc   ( 1872): hwc_draw_cursor_content(356) Draw image[i], success: src_width=2, src_height=42, dst_width=63, dst_height=63, transform=95
+I/v_hwc   ( 1872): hwcSetCursor(544): cursor_width=42, cursor_height=63,cursor_format=0x132, cursor_stride=192,bpp=4, buffer_handle=0x3085af80, disp_rect={367,2,42,63}!
+D/SbyRpc  ( 1871): RPC: Entering sbyrpc_SendMessage 29
+D/SbyRpc  ( 1871): RPC : OnRPCDataReceived 332 invokeid = 1 funcid = 29
+D/SbyRpc  ( 1871): RPC: DeleteInvokeStruct 534 0x2c099848 is=1
+E/GetDisplayState( 1871): Entry
+I/displaycontrol/DisplayCtrl/ctrl( 1871):  In displayctrl_getCurrentDisplayState :2 
+E/GetDisplayState( 1871): Exit
+D/TimerImpl( 2587): MsgHandler Wait
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000041
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000041
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=48 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: isActiveInterfaceAvailable eth0 
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): getActiveNetworkIpAddress: Printing the IP address for Ethernet 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: Registering with HOST IP Address : 192.168.1.147
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): registerService: PrinTING nsd service information : name: 5_PhilipsTvtype: _philipstv_rpc._tcp.host: /192.168.1.147port: 1925txtRecord: null
+D/org.droidtv.xtv.xtvnsd.xtvnsdserver( 2445): onUnregistrationFailed: Failed to unregister the service
+D/NsdService( 2198): Register service
+D/NsdService( 2198): Exceeded max outstanding requests mChannel com.android.internal.util.AsyncChannel@2c7974f8
+D/NsdService( 2198): mMessenger android.os.Messenger@2c797498
+D/NsdService( 2198): mResolvedService null
+D/NsdService( 2198): clientId 1 mDnsId 2
+D/NsdService( 2198): clientId 2 mDnsId 3
+D/NsdService( 2198): clientId 3 mDnsId 4
+D/NsdService( 2198): clientId 4 mDnsId 5
+D/NsdService( 2198): clientId 5 mDnsId 6
+D/NsdService( 2198): clientId 6 mDnsId 7
+D/NsdService( 2198): clientId 7 mDnsId 8
+D/NsdService( 2198): clientId 8 mDnsId 9
+D/NsdService( 2198): clientId 9 mDnsId 10
+D/NsdService( 2198): clientId 10 mDnsId 11
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000040
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+D/TimerImpl( 2587): MsgHandler Wait
+D/DEMUX_SECTION( 1871): DMXSECTIONDEBUG: BEGIN DUMP
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.25 dB -  32.00 dB =   3.25 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000043
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  35.00 dB -  32.00 dB =   3.00 dB SQI=47 SSI=90 [BER ready ? =Y] ber=0.000043
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=1]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=1]dvbcfms_semCheck : Semunlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semlock success!!!
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000037
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_monitorLock : Lock Status 1 Previous Lock Status 1
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_LOCK success
+D/RFFE_SILABS_LOGS( 1871): DVBC SQI: CNrel = CNrec - CNref[4] =  34.75 dB -  32.00 dB =   2.75 dB SQI=46 SSI=90 [BER ready ? =Y] ber=0.000037
+D/RFFE_DEMODSILAB_SUPP( 1871): [hsilab=0]silab_mutexCheck : SILAB_MUTEX_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_mutexCheck : DVBC_FMS_UNLOCK success
+D/RFFE_DVBC( 1871): [hfms=0]dvbcfms_semCheck : Semunlock success!!!
+D/        ( 1871): TVSettingsProviderService | NativeLibrary : getInt Done  for property=45 & value=2
